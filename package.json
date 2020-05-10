@@ -1,0 +1,21 @@
+{
+  "name": "@manuschillerdev/cathly",
+  "version": "1.0.0-rc1",
+  "description": "Tiny (<200b) tool as basis for calendars and datepickers",
+  "source": "src/index.ts",
+  "main": "dist/cathly.js",
+  "module": "dist/cathly.module.js",
+  "umd:main": "dist/cathly.umd.js",
+  "unpkg": "dist/cathly.umd.js",
+  "author": "Manu Schiller",
+  "license": "MIT",
+  "scripts": {
+    "build": "microbundle",
+    "format": "prettier src/**/*.ts --write"
+  },
+  "devDependencies": {
+    "microbundle": "^0.12.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.8.3"
+  }
+}
