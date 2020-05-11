@@ -95,7 +95,7 @@ function groupByWeeks(dates) {
   }
     
   return out;  
-};
+}
 
 groupByWeeks(cathly(new Date()));
 //=> [
