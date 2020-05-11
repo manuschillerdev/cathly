@@ -37,7 +37,7 @@ const view = cathly(new Date());
 | includes dates of previous and next month for the current view| ✅ | ❌
 | size | 171b | 202B |
 | memory usage | higher | lower
-| execution time | higher | lower
+| execution time | slower | faster
 
 ### Output:
 
