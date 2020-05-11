@@ -1,6 +1,7 @@
 {
   "name": "@manuschillerdev/cathly",
   "version": "1.0.0-rc1",
+  "repository": "https://github.com/manuschillerdev/cathly",
   "description": "Tiny (<200b) tool as basis for calendars and datepickers",
   "source": "src/index.ts",
   "main": "dist/index.js",
