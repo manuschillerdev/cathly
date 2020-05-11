@@ -18,7 +18,7 @@ function cathly(
 	// 2 = weeks start on tuesday
 	// ...
 	offset?: 0 | 1 | 2 | 3 | 4 | 5 | 6
-): Date[];
+): Date[] {...};
 ```
 
 ## Usage
