@@ -11,7 +11,7 @@
   "license": "MIT",
   "scripts": {
     "build": "microbundle",
-    "publish": "yarn build && yarn bundlesize && npm publish",
+    "build-and-publish": "yarn build && yarn bundlesize && npm publish",
     "format": "prettier src/**/*.ts --write",
     "bundlesize": "bundlesize"
   },
